@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-For more information on current projects and step-by-step tutorials, visit my main [project page](https://github.com/LC-Linkous/LC-Linkous.github.io)
+For more information on current projects and step-by-step tutorials, visit my main [project page](https://lc-linkous.github.io)
