@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+For more information on current projects and step-by-step tutorials, visit my main [project page](https://github.com/LC-Linkous/LC-Linkous.github.io)
