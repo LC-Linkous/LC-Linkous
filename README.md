@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 For more information on current projects and step-by-step tutorials, visit my main [project page](https://lc-linkous.github.io)
+Publications and research can be found on my [Google Scholar](https://scholar.google.com/citations?user=UHCDo0MAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Lauren-Linkous) pages
