@@ -26,8 +26,10 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 <br>
 <br>
 Quick Links to Optimizers:
-
-
-[pso_python](https://github.com/LC-Linkous/pso_python)      [pso_basic](https://github.com/LC-Linkous/pso_python/tree/pso_basic)      [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python)      [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python)      [sweep](https://github.com/LC-Linkous/sweep)
+* [pso_python](https://github.com/LC-Linkous/pso_python)
+* [pso_basic](https://github.com/LC-Linkous/pso_python/tree/pso_basic)
+* [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python)
+* [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python)
+* [sweep](https://github.com/LC-Linkous/sweep)
 
 
