@@ -26,9 +26,8 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 <br>
 <br>
 
-
-Assorted Project Quick Links
 <hr/>
+Assorted Project Quick Links
 
 | Base Optimizer | Alternate version | Quantum-Inspired Optimizer |
 | ------------- | ------------- | ------------- |
