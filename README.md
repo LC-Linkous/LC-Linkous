@@ -26,10 +26,13 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 <br>
 <br>
 
+<hr/>
+
+Assorted Project Quick Links: 
 | Base Optimizer | Alternate version | Quantum-Inspired Optimizer |
 | ------------- | ------------- | ------------- |
 | [pso_python](https://github.com/LC-Linkous/pso_python) | [pso_basic](https://github.com/LC-Linkous/pso_python/tree/pso_basic) |   |
-| [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python) | sand cat optimization TBA | [quantum_cat_swarm](https://github.com/LC-Linkous/cat_swarm_python/tree/quantum_cat_python?tab=readme-ov-file) |
+| [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python) | sand cat optimization TBA | [cat_swarm_quantum](https://github.com/LC-Linkous/cat_swarm_python/tree/cat_swarm_quantum) |
 | [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python) | - | quantum chicken swarm TBA   |
 | [sweep](https://github.com/LC-Linkous/sweep)  | -  | -  |
 
