@@ -32,9 +32,9 @@ Assorted Project Quick Links
 | Base Optimizer | Alternate version | Quantum-Inspired Optimizer |
 | ------------- | ------------- | ------------- |
 | [pso_python](https://github.com/LC-Linkous/pso_python) | [pso_basic](https://github.com/LC-Linkous/pso_python/tree/pso_basic) | [pso_quantum](https://github.com/LC-Linkous/pso_python/tree/pso_quantum)  |
-| [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python) | sand cat optimization TBA | [cat_swarm_quantum](https://github.com/LC-Linkous/cat_swarm_python/tree/cat_swarm_quantum) |
+| [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python) | [sand_cat_python](https://github.com/LC-Linkous/cat_swarm_python/tree/sand_cat_python)| [cat_swarm_quantum](https://github.com/LC-Linkous/cat_swarm_python/tree/cat_swarm_quantum) |
 | [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python) | - | [chicken_swarm_quantum](https://github.com/LC-Linkous/chicken_swarm_python/tree/chicken_swarm_quantum)  |
-| [sweep](https://github.com/LC-Linkous/sweep)  | -  | -  |
+| [sweep](https://github.com/LC-Linkous/sweep)  | bayesian version TBA | -  |
 
 The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) used to generate training data will be public Fall 2024
 
