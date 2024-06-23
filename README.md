@@ -35,7 +35,7 @@ Assorted Project Quick Links
 | [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python) | [sand_cat_python](https://github.com/LC-Linkous/cat_swarm_python/tree/sand_cat_python)| [cat_swarm_quantum](https://github.com/LC-Linkous/cat_swarm_python/tree/cat_swarm_quantum) |
 | [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python) | - | [chicken_swarm_quantum](https://github.com/LC-Linkous/chicken_swarm_python/tree/chicken_swarm_quantum)  |
 | [sweep_python](https://github.com/LC-Linkous/sweep_python)  | *alternates are options in base repo | -  |
-| [bayesian optimization_python]([https://github.com/LC-Linkous/sweep_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| -  |
+| [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| -  |
 
 
 Optimizers and Tested Compatible Surrogate Models
@@ -51,7 +51,7 @@ Optimizers and Tested Compatible Surrogate Models
 | [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python) | - | - | - | - | - | - |
 | [chicken_swarm_quantum](https://github.com/LC-Linkous/chicken_swarm_python/tree/chicken_swarm_quantum)  | - | - | - | - | - | - |
 | [sweep_python](https://github.com/LC-Linkous/sweep_python)  | - | - | - | - | - | - |
-| [bayesian optimization_python]([https://github.com/LC-Linkous/sweep_python](https://github.com/LC-Linkous/bayesian_optimization_python) | - | - | - | - | - | - |
+| [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python) | - | - | - | - | - | - |
 
 
 The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) used to generate training data will be public Fall 2024
