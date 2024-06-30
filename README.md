@@ -27,10 +27,6 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 <br>
 
 <hr/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<hr/>
 Assorted Project Quick Links
 
 | Base Optimizer | Alternate version | Quantum-Inspired Optimizer |
@@ -45,3 +41,6 @@ Assorted Project Quick Links
 The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) used to generate training data will be public Fall 2024
 
 
+<hr/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
