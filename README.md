@@ -27,7 +27,8 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 <br>
 
 <hr/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr/>
 Assorted Project Quick Links
