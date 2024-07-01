@@ -45,5 +45,6 @@ The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_func
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Linkous&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Linkous&layout=compact&theme=tokyonight)
 
