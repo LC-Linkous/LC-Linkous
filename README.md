@@ -45,7 +45,5 @@ The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_func
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LC-Linkous&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Linkous&layout=compact)
 
