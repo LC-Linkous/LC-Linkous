@@ -38,7 +38,7 @@ Assorted Project Quick Links
 | [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| - | *interchangable surrogate models <br> included in base repo |
 | [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| - | - | |
 
-The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) used to generate training data will be public Fall 2024
+The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) is now public
 
 The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
 
