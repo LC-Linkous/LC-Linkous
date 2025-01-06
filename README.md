@@ -25,9 +25,11 @@ Publications and research can be found on my [Google Scholar](https://scholar.go
 Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.com/in/lauren-linkous)!
 <br>
 <br>
+Work and repo details can be found at my [Directory](https://github.com/LC-Linkous/Directory) to group together the conference projects, tutorials, and other materials for easier access
 
 <hr/>
 Assorted Project Quick Links
+
 
 | Base Optimizer | Alternate Version | Quantum-Inspired Optimizer | Surrogate Model Version |
 | ------------- | ------------- | ------------- |------------- |
@@ -41,8 +43,6 @@ Assorted Project Quick Links
 The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) is now public
 
 The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
-
-A [Repo and Project Directory](https://github.com/LC-Linkous/Directory) to group together the conference projects, tutorials, and other materials for easier access
 
 
 <!--- 
