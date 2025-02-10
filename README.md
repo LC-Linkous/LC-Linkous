@@ -45,9 +45,9 @@ The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_func
 The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
 
 
-<!--- --->
+<!---
 ##[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Linkous&layout=compact&theme=tokyonight)
-
+ --->
 
 
