@@ -49,3 +49,6 @@ The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that ha
 ##[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Linkous&layout=compact&theme=tokyonight)
 --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=LC-Linkous&theme=algolia&show_icons=true)](https://github.com/LC-Linkous)
+
