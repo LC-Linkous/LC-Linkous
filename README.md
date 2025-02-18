@@ -38,7 +38,7 @@ Assorted Project Quick Links
 | [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python) | [2015 improved chicken swarm](https://github.com/LC-Linkous/chicken_swarm_python/tree/improved_chicken_swarm) <br>2022 improved chicken swarm| [chicken_swarm_quantum](https://github.com/LC-Linkous/chicken_swarm_python/tree/chicken_swarm_quantum)  | all versions are options in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
 | [sweep_python](https://github.com/LC-Linkous/sweep_python)  | *alternates in base repo | -  | - |
 | [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| - | *interchangeable surrogate models <br> included in base repo |
-| [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| GLODS | DIRECT | multiGLODS option in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
+| [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| GLODS <br> DIRECT | - | multiGLODS option in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
 
 The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) is now public
 
