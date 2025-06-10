@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-For more information on current projects and step-by-step tutorials, visit my main [project page](https://lc-linkous.github.io) or check out the [project directory](https://github.com/LC-Linkous/Directory)
+For more information on current projects and step-by-step tutorials, visit my main [project page](https://lc-linkous.github.io) 
 <br>
 <br>
 Publications and research can be found on my [Google Scholar](https://scholar.google.com/citations?user=UHCDo0MAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Lauren-Linkous) pages
@@ -25,7 +25,7 @@ Publications and research can be found on my [Google Scholar](https://scholar.go
 Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.com/in/lauren-linkous)!
 <br>
 <br>
-Work and repo details can be found at my [Directory](https://github.com/LC-Linkous/Directory) to group together the conference projects, tutorials, and other materials for easier access
+Work and repo details can be found on my [Projects page](https://lc-linkous.github.io/projects) to group together the conference projects, tutorials, and other materials for easier access
 
 <hr/>
 Assorted Project Quick Links
