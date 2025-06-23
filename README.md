@@ -31,6 +31,8 @@ Work and repo details can be found on my [Projects page](https://lc-linkous.gith
 Assorted Project Quick Links
 
 
+Optimizers:
+
 | Base Optimizer | Alternate Version | Quantum-Inspired Optimizer | Surrogate Model Version |
 | ------------- | ------------- | ------------- |------------- |
 | [pso_python](https://github.com/LC-Linkous/pso_python) | [pso_basic](https://github.com/LC-Linkous/pso_python/tree/pso_basic) | [pso_quantum](https://github.com/LC-Linkous/pso_quantum)  | all versions are options in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
@@ -41,6 +43,9 @@ Assorted Project Quick Links
 | [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| GLODS <br> DIRECT | - | multiGLODS option in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
 
 The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) is now public
+
+Tools:
+
 
 The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
 
