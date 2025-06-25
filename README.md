@@ -1,22 +1,6 @@
 ### Hi there 👋
 
-<!--
-**LC-Linkous/LC-Linkous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-For more information on current projects and step-by-step tutorials, visit my main [project page](https://lc-linkous.github.io) 
+For more information on tutorials, current projects and step-by-step tutorials, visit my main [project page](https://lc-linkous.github.io/projects) 
 <br>
 <br>
 Publications and research can be found on my [Google Scholar](https://scholar.google.com/citations?user=UHCDo0MAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Lauren-Linkous) pages
@@ -24,14 +8,9 @@ Publications and research can be found on my [Google Scholar](https://scholar.go
 <br>
 Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.com/in/lauren-linkous)!
 <br>
-<br>
-Work and repo details can be found on my [Projects page](https://lc-linkous.github.io/projects) to group together the conference projects, tutorials, and other materials for easier access
 
 <hr/>
 Assorted Project Quick Links
-
-
-Optimizers:
 
 | Base Optimizer | Alternate Version | Quantum-Inspired Optimizer | Surrogate Model Version |
 | ------------- | ------------- | ------------- |------------- |
@@ -42,12 +21,17 @@ Optimizers:
 | [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| - | *interchangeable surrogate models <br> included in base repo |
 | [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| GLODS <br> DIRECT | - | multiGLODS option in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
 
-The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) is now public
+**Tools:**
+* [AntennaCAT](https://github.com/LC-Linkous/AntennaCalculationAutotuningTool), the automated antenna calculation and CAD tool designed for working with EM simulation software and optimization
+* The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) used to benchmark and collect data for the optimizer set
+* A non-GUI [Python library for the tinySA series of devices](https://github.com/LC-Linkous/tinySA_python) 
 
-Tools:
+**Tutorials:**
+* Machine learning for [Antennas](https://github.com/LC-Linkous/2024-URSI-NRSM-1265)
+* Educational material samples for [Encryption, Decryption, and Cryptography](https://github.com/LC-Linkous/cryptography_examples)
 
-
-The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
+**Trinkets:**
+* The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
 
 
 <!---
