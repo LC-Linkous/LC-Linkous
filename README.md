@@ -32,6 +32,7 @@ Assorted Project Quick Links
 
 **Trinkets:**
 * The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
+* Assorted measurements for [antenna research samples](https://github.com/LC-Linkous/research_antenna_collection) that have appeared in papers
 
 
 <!---
