@@ -28,7 +28,7 @@ Assorted Project Quick Links
 
 **Tutorials:**
 * Machine learning for [Antennas](https://github.com/LC-Linkous/2024-URSI-NRSM-1265)
-* Educational material samples for [Encryption, Decryption, and Cryptography](https://github.com/LC-Linkous/cryptography_examples)
+* Educational material samples for [Encryption, Decryption, and Cryptography](https://github.com/LC-Linkous/cryptography_examples), and reverse engineering references (coming soon)
 
 **Trinkets:**
 * The [Cat Antenna collection](https://github.com/LC-Linkous/cat_antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
