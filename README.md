@@ -32,7 +32,7 @@ Assorted Project Quick Links
 * Experiment-based educational materials on [reverse engineering (public soon!)](https://github.com/LC-Linkous/reverse_engineering_notes) and [computer vision](https://github.com/LC-Linkous/computer_vision_notes)
 
 **Trinkets:**
-* The [Cat Antenna collection](https://github.com/LC-Linkous/research_antenna_collection#cat-antennas) that has appeared in select publications, projects, and DEF CON 32 village show-and-tells
+* The [Cat Antenna collection](https://github.com/LC-Linkous/research_antenna_collection#cat-antennas) that has appeared in select publications, projects, and DEF CON village show-and-tells (not talks)
 * Assorted measurements and .dxf files for [antenna research samples](https://github.com/LC-Linkous/research_antenna_collection) that have appeared in papers
 
 
