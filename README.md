@@ -8,6 +8,9 @@ Publications and research can be found on my [Google Scholar](https://scholar.go
 <br>
 Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.com/in/lauren-linkous)!
 <br>
+<br>
+(Most public code updates happen between May - August. So if you're looking for a library update, thats when I'm the most acive :) )
+<br>
 
 <hr/>
 Assorted Project Quick Links
