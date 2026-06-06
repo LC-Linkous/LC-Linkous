@@ -23,7 +23,7 @@ Assorted Project Quick Links
 | [sweep_python](https://github.com/LC-Linkous/sweep_python)  | *alternates in base repo | -  | - |
 | [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| - | *interchangeable surrogate models <br> included in base repo |
 | [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| GLODS <br> DIRECT | - | multiGLODS option in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
-| Genetic-based Algorithms |  | - |  |
+| [genetic_python](https://github.com/LC-Linkous/genetic_python) |  | - |  |
 
 **Tools:**
 * [AntennaCAT](https://github.com/LC-Linkous/AntennaCalculationAutotuningTool), the automated antenna calculation and CAD tool designed for working with EM simulation software and optimization
