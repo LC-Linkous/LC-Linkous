@@ -23,17 +23,20 @@ Assorted Project Quick Links
 | [sweep_python](https://github.com/LC-Linkous/sweep_python)  | *alternates in base repo | -  | - |
 | [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| - | *interchangeable surrogate models <br> included in base repo |
 | [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| GLODS <br> DIRECT | - | multiGLODS option in [surrogate_model_optimization](https://github.com/LC-Linkous/surrogate_model_optimization)|
+| Genetic-based Algorithms |  | - |  |
 
 **Tools:**
 * [AntennaCAT](https://github.com/LC-Linkous/AntennaCalculationAutotuningTool), the automated antenna calculation and CAD tool designed for working with EM simulation software and optimization
 * The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) used to benchmark and collect data for the optimizer set
-* Non-GUI Python libraries for the [tinySA series of devices](https://github.com/LC-Linkous/tinySA_python) with [PyPI tsapython package](https://pypi.org/project/tsapython/), the [NanoVNA series](https://github.com/LC-Linkous/nanoVNA_python), and the HackRF One
-* Tools for [array calculation and design](https://github.com/LC-Linkous/ArrayCalculator), and physics-based reinforcement learning
+* CLI-based [array calculation and design](https://github.com/LC-Linkous/ArrayCalculator) for optimizer integration and evaluation
+* Non-GUI Python libraries for the [tinySA series of devices](https://github.com/LC-Linkous/tinySA_python), the [NanoVNA series](https://github.com/LC-Linkous/nanoVNA_python), and the HackRF One.
+  * Including the [PyPI tsapython package](https://pypi.org/project/tsapython/)
+
 
 **Tutorials:**
 * Machine learning for [Antennas](https://github.com/LC-Linkous/2024-URSI-NRSM-1265)
 * Educational material samples for [Encryption, Decryption, and Cryptography](https://github.com/LC-Linkous/cryptography_examples)
-* Experiment-based educational materials on [reverse engineering](https://github.com/LC-Linkous/reverse_engineering_notes) and [computer vision](https://github.com/LC-Linkous/computer_vision_notes)
+* Experiment-based educational materials on [reverse engineering](https://github.com/LC-Linkous/reverse_engineering_notes), [computer vision](https://github.com/LC-Linkous/computer_vision_notes), [data interface testbenches](https://github.com/LC-Linkous/data_interfacing_demo), and physics-based reinforcement learning.
 
 **Trinkets:**
 * The [Cat Antenna collection](https://github.com/LC-Linkous/research_antenna_collection#cat-antennas) that has appeared in select publications, projects, and conferences
