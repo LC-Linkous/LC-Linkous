@@ -29,7 +29,7 @@ Assorted Project Quick Links
 * [AntennaCAT](https://github.com/LC-Linkous/AntennaCalculationAutotuningTool), the automated antenna calculation and CAD tool designed for working with EM simulation software and optimization
 * The [Objective Function Test Suite](https://github.com/LC-Linkous/objective_function_suite) used to benchmark and collect data for the optimizer set
 * CLI-based [array calculation and design](https://github.com/LC-Linkous/ArrayCalculator) for optimizer integration and evaluation
-* Non-GUI Python libraries for the [tinySA series of devices](https://github.com/LC-Linkous/tinySA_python), the [NanoVNA series](https://github.com/LC-Linkous/nanoVNA_python), and the HackRF One.
+* Non-GUI Python libraries for the [tinySA series of devices](https://github.com/LC-Linkous/tinySA_python), the [NanoVNA series](https://github.com/LC-Linkous/nanoVNA_python), and the [HackRF One](https://github.com/LC-Linkous/hackRF_python).
   * Including the [PyPI tsapython package](https://pypi.org/project/tsapython/)
 
 
