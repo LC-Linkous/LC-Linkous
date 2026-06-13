@@ -15,7 +15,8 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 <br>
 
 <hr/>
-Assorted Project Quick Links
+
+**Assorted Project Quick Links**
 
 | | PSO | Cat Swarm | Chicken Swarm | MultiGLODS | Genetic | Other Optimizers |
 | --- | --- | --- | --- | --- | --- | --- |
