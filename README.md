@@ -32,7 +32,7 @@ Most optimizers are available as options in [surrogate_model_optimization](https
 * [AntennaCAT](https://github.com/LC-Linkous/AntennaCalculationAutotuningTool), the automated antenna calculation and CAD tool designed for working with EM simulation software and optimization.
 * CLI-based [array calculation and design](https://github.com/LC-Linkous/ArrayCalculator) for optimizer integration and evaluation.
 * Non-GUI Python libraries for the [tinySA series of devices](https://github.com/LC-Linkous/tinySA_python), the [NanoVNA series](https://github.com/LC-Linkous/nanoVNA_python), and the [HackRF One](https://github.com/LC-Linkous/hackRF_python).
-  * Including the PyPI [tsapython](https://pypi.org/project/tsapython/), [nanovnapython](https://pypi.org/project/nvnapython/), and [hackrfpy](https://pypi.org/project/hackrfpy/) packages.
+  * Including the PyPI [tsapython](https://pypi.org/project/tsapython/), [nvnapython](https://pypi.org/project/nvnapython/), and [hackrfpy](https://pypi.org/project/hackrfpy/) packages.
 
 
 **Tutorials:**
