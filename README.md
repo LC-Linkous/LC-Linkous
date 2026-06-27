@@ -16,8 +16,9 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 
 <hr/>
 
-**Assorted Project Quick Links**
+### **Assorted Project Quick Links**
 
+**Optimization Suite:** 
 | | PSO | Cat Swarm | Chicken Swarm | MultiGLODS | Genetic | Other Optimizers |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Base** | [pso_python](https://github.com/LC-Linkous/pso_python) | [cat_swarm](https://github.com/LC-Linkous/cat_swarm_python) | [chicken_swarm](https://github.com/LC-Linkous/chicken_swarm_python) | [multi_glods](https://github.com/LC-Linkous/multi_glods_python) | [ga_python](https://github.com/LC-Linkous/ga_python) | [sweep](https://github.com/LC-Linkous/sweep_python) <br> [bayesian](https://github.com/LC-Linkous/bayesian_optimization_python) |
