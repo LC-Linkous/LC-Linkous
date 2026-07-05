@@ -45,12 +45,3 @@ Most optimizers are available as options in [surrogate_model_optimization](https
 * The [Cat Antenna collection](https://github.com/LC-Linkous/research_antenna_collection#cat-antennas) that has appeared in select publications, projects, and conferences
 * Assorted measurements and .dxf files for [antenna research samples](https://github.com/LC-Linkous/research_antenna_collection) that have appeared in papers
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Linkous&layout=compact&theme=tokyonight)
-<!---
-##[![trophy](https://github-profile-trophy.vercel.app/?username=LC-Linkous&theme=tokyonight&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Linkous&layout=compact&theme=tokyonight)
- --->
-
-
