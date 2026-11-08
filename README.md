@@ -34,14 +34,22 @@ The optimization suite is the backbone of most of my modeling and optimization w
 * CLI-based [array calculation and design](https://github.com/LC-Linkous/ArrayCalculator) for optimizer integration and evaluation.
 * Non-GUI Python libraries for the [tinySA series of devices](https://github.com/LC-Linkous/tinySA_python), the [NanoVNA series](https://github.com/LC-Linkous/nanoVNA_python), and the [HackRF One](https://github.com/LC-Linkous/hackRF_python).
   * Including the PyPI [tsapython](https://pypi.org/project/tsapython/), [nvnapython](https://pypi.org/project/nvnapython/), and [hackrfpy](https://pypi.org/project/hackrfpy/) packages.
+  * And browser front ends that speak the same protocols: [tinySA Web](https://lc-linkous.github.io/tinysa-web/), [nanoVNA Web](https://lc-linkous.github.io/nanovna-web/), and [hackrf-web](https://lc-linkous.github.io/hackrf-web/). Open in Chrome or Edge, plug in over USB; every one has a try-without-hardware mode.
+
 
 
 **Tutorials:**
-* Machine learning introductions for [Antennas](https://github.com/LC-Linkous/2024-URSI-NRSM-1265), and reinforcement learning.
-* Educational material samples for [Encryption, Decryption, and Cryptography](https://github.com/LC-Linkous/cryptography_examples), [computer vision](https://github.com/LC-Linkous/computer_vision_notes), and [Kalman filtering](https://github.com/LC-Linkous/kalman_filter).
+* Machine learning introductions for [Antennas](https://github.com/LC-Linkous/2024-URSI-NRSM-1265),  and [reinforcement learning for reconfigurable antennas](https://github.com/LC-Linkous/2025_URSI_RL_Reconfigurable_Antennas).
+* Educational material samples for [encryption, decryption, and cryptography](https://github.com/LC-Linkous/cryptography_examples), [computer vision](https://github.com/LC-Linkous/computer_vision_notes), and [Kalman filtering](https://github.com/LC-Linkous/kalman_filter).
 * Experiment-based educational materials on [reverse engineering](https://github.com/LC-Linkous/reverse_engineering_notes), and [data interface testbenches](https://github.com/LC-Linkous/data_interfacing_demo).
+* Browser-based labs and demos for undergraduate electronics and wireless courses, collected at [interactive-hardware-interfacing](https://github.com/interactive-hardware-interfacing): an LED I–V lab instrument, field simulators for intro electromagnetics, and six ESP-NOW demos on XIAO ESP32-C3 boards, each with a demo mode.
 
 **Trinkets:**
 * The [Cat Antenna collection](https://github.com/LC-Linkous/research_antenna_collection#cat-antennas) that has appeared in select publications, projects, and conferences
 * Assorted measurements and .dxf files for [antenna research samples](https://github.com/LC-Linkous/research_antenna_collection) that have appeared in papers
+<p align="center">
+  <a href="https://github.com/LC-Linkous/research_antenna_collection#cat-antennas"><img src="https://lc-linkous.github.io/media/imgs/projects/cat-antennas.webp" alt="Cat-shaped WiFi antennas for 5/6 GHz and 2.4/5.8 GHz, with Sybil inspecting the samples" width="400"></a>
+</p>
+ 
+
 
