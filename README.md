@@ -12,7 +12,7 @@ Interested in collaboration? Reach out to me on [Linkedin](https://www.linkedin.
 (Most public code updates happen between May - August. So if you're looking for a library update, that's when I'm the most active :) )
 <br>
 --->
-Electrical engineering Ph.D. at VCU. Antennas, optimizers, and RF instruments, in Python and in the browser.
+Electrical engineering Ph.D. at VCU. Antennas, optimizers, and RF instruments, in scripts and in the browser.
  
 Projects, tools, posts, and publications, with context: **[lc-linkous.github.io](https://lc-linkous.github.io/)**
 <br>
