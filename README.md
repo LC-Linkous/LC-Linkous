@@ -52,7 +52,8 @@ The optimization suite is the backbone of most of my modeling and optimization w
 * Machine learning introductions for [antennas](https://github.com/LC-Linkous/2024-URSI-NRSM-1265), and [reinforcement learning for reconfigurable antennas](https://github.com/LC-Linkous/2025_URSI_RL_Reconfigurable_Antennas).
 * Educational material samples for [encryption, decryption, and cryptography](https://github.com/LC-Linkous/cryptography_examples), [computer vision](https://github.com/LC-Linkous/computer_vision_notes), and [Kalman filtering](https://github.com/LC-Linkous/kalman_filter).
 * Experiment-based educational materials on [reverse engineering](https://github.com/LC-Linkous/reverse_engineering_notes), and [data interface testbenches](https://github.com/LC-Linkous/data_interfacing_demo).
-* Browser-based labs and demos for undergraduate electronics and wireless courses, collected at [interactive-hardware-interfacing](https://github.com/interactive-hardware-interfacing): an LED I–V lab instrument, field simulators for intro electromagnetics, and six ESP-NOW demos on XIAO ESP32-C3 boards, each with a demo mode.
+* Course materials for [undergraduate level electromagnetics courses](https://github.com/LC-Linkous/electromagnetics_notes). 
+* Browser-based labs and demos for undergraduate electronics and wireless courses, collected at [interactive-hardware-interfacing](https://github.com/interactive-hardware-interfacing): an LED I–V lab instrument, [field simulators for intro electromagnetics](https://interactive-hardware-interfacing.github.io/intro-emf-lab), and six ESP-NOW demos on XIAO ESP32-C3 boards, each with a demo mode.
 
 **Trinkets:**
 * The [Cat Antenna collection](https://github.com/LC-Linkous/research_antenna_collection#cat-antennas) that has appeared in select publications, projects, and conferences
